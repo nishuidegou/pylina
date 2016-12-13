@@ -3,15 +3,18 @@
 <html>
   <head>
     <title>lina</title>
-    <link rel="stylesheet" href="{% static 'css/bootstrap.css' %}"/>
-    <link rel="stylesheet" href="{% static 'css/custom.css' %}"/>
+<!--    <link rel="stylesheet" href="{% static 'css/bootstrap.css' %}"/>-->
+<!--    <link rel="stylesheet" href="{% static 'css/custom.css' %}"/>-->
+      <link rel="stylesheet" href="{% static 'css/chat.css' %}"/>
   </head>
   <body>
 
     <div class="container">
+<!--
       <div class="page-header text-center">
         <h1>lina</h1>
       </div>
+-->
 
       <div class="row">
         <div class="col-xs-6 col-xs-offset-3">
@@ -19,7 +22,7 @@
           </ul>
 
           <div class="input-group input-group-lg">
-            <input type="text" class="form-control js-text" placeholder="Type something to begin..."/>
+            <input type="text" class="form-control js-text" style="width:300px" placeholder="Type something to begin..."/>
             <span class="input-group-btn">
               <button class="btn btn-primary js-say">Submit</button>
             </span>
