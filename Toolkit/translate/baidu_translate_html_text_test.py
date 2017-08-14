@@ -27,26 +27,44 @@ def baidu_translate(str, from_language, to_language):
     temp_url = url + 'q=' + str + '&from=' + from_language + '&to=' + to_language + '&appid=' + appid + '&salt=' + salt + '&sign=' + sign
     ret = requests.get(temp_url)
     # print(temp_url)
-    print(json.loads(ret.text))
+    # print(ret.status_code)
+
+    if ret.text.find('error') == -1:
+        trans_res = json.loads(ret.text)
+        # print(trans_res['trans_result'][0]['dst'])
+        trans_output = trans_res['trans_result'][0]['dst']
+        # print(json_text.keys())
+        # print(trans_res)
+        return trans_output
+
+    return -1
+
 
 def process_translate(file):
 
-    fopen = open(file, 'r')
-    # for eachLine in fopen:
-    #     print(eachLine)
-    html = fopen.read()
-    # print(html)
-    soup = BeautifulSoup(html, "html.parser")
+    fopen_old = open(file, 'r')
+    fopen_new = open(os.path.join('./templates-translated/' + os.path.basename(file)), 'w+')
+
+    html_text = fopen_old.read()
+    fopen_old.close()
+    #
+
+    soup = BeautifulSoup(html_text, "html.parser")
     # print(soup.get_text())
     # print(soup.strong)
     # print(soup.a)
     # print(soup.h3)
     for item in soup.stripped_strings:
         if item.find('{%') == -1 and item.find('{{') == -1 and item.find('{#') == -1:
-            baidu_translate(item, 'ru', 'en')
-            # print(item)
+            item_translated = baidu_translate(item, 'ru', 'en')
 
-    fopen.close()
+            print(item, item_translated)
+
+            if item_translated != -1:
+                html_text = html_text.replace(item, item_translated)    #
+
+    fopen_new.write(html_text)
+    fopen_new.close()
 
 
 def translate(path):
@@ -82,7 +100,6 @@ def translate(path):
         process_translate(path)
 
 
-    # return None
 
 if __name__ == "__main__":
 
