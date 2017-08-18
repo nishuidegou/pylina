@@ -1,8 +1,9 @@
 import pandas as pd
 import tushare as ts
 
+c = pd.DataFrame()
 
-def test():
+def test(content):
 
     # print(ts.get_industry_classified())
 
@@ -11,6 +12,7 @@ def test():
     # print(df)
 
     # print(ts.get_today_all())
+    content = ts.get_today_all()
 
     # print(ts.forecast_data(2017, 2))
 
@@ -24,8 +26,9 @@ def test():
 
     # print(ts.get_notices())
 
-    print(ts.guba_sina())
+    # print(ts.guba_sina())
+    print(content)
 
 
 if __name__ == '__main__':
-    test()
+    test(c)
