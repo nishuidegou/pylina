@@ -9,10 +9,11 @@ def test(content):
 
     # df = ts.profit_data(year=2017, top=60)
     # df.sort('shares', ascending=False)
+
     # print(df)
 
     # print(ts.get_today_all())
-    content = ts.get_today_all()
+    # content = ts.get_today_all()
 
     # print(ts.forecast_data(2017, 2))
 
@@ -27,7 +28,9 @@ def test(content):
     # print(ts.get_notices())
 
     # print(ts.guba_sina())
-    print(content)
+
+    print(ts.get_stock_basics())
+    # print(content)
 
 
 if __name__ == '__main__':
