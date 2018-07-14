@@ -2,64 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fdfdea4-49f0-4808-874f-6f38599e832e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_And_Tools/video/test.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/gui/1452.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/gui/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/gui/pyqt_test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/gui/serial_wx.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/gui/wxSerialConfigDialog.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/gui/wx_python.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/video/test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/.idea/lina.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/.idea/markdown-navigator/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/db.sqlite3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/insurance/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/insurance/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/insurance/apps.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/insurance/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/insurance/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/insurance/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/insurance/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/lina/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/lina/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/lina/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/lina/wsgi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/manage.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/stock/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/stock/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/stock/apps.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/stock/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/stock/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/stock/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/stock/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/templates/stock/stock_index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/pylina.iml" afterPath="$PROJECT_DIR$/.idea/pylina.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.txt" afterPath="$PROJECT_DIR$/readme.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/extract data/scrapy/scrapy_test.py" afterPath="$PROJECT_DIR$/Test_And_Tools/data/scrapy/scrapy_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/finance/tushare/tushare_test.py" afterPath="$PROJECT_DIR$/Test_And_Tools/finance/tushare/tushare_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/map/baidu/info_css.html" afterPath="$PROJECT_DIR$/Test_And_Tools/geographic/baidu/info_css.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/translate/baidu_translate_html_text_test.py" afterPath="$PROJECT_DIR$/Test_And_Tools/translate/baidu_translate_html_text_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/video/MobileNetSSD_deploy.caffemodel" afterPath="$PROJECT_DIR$/Test_And_Tools/video/MobileNetSSD_deploy.caffemodel" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/video/MobileNetSSD_deploy.prototxt.txt" afterPath="$PROJECT_DIR$/Test_And_Tools/video/MobileNetSSD_deploy.prototxt.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/video/object_detect.py" afterPath="$PROJECT_DIR$/Test_And_Tools/video/object_detect.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/video/opencv_test01.py" afterPath="$PROJECT_DIR$/Test_And_Tools/video/opencv_test01.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/video/temp/MobileNetSSD_deploy.caffemodel" afterPath="$PROJECT_DIR$/Test_And_Tools/video/temp/MobileNetSSD_deploy.caffemodel" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/video/temp/MobileNetSSD_deploy.prototxt.txt" afterPath="$PROJECT_DIR$/Test_And_Tools/video/temp/MobileNetSSD_deploy.prototxt.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/wechat/wechat/__init__.py" afterPath="$PROJECT_DIR$/Test_And_Tools/wechat/wechat/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/wechat/wechat/admin.py" afterPath="$PROJECT_DIR$/Test_And_Tools/wechat/wechat/admin.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/wechat/wechat/apps.py" afterPath="$PROJECT_DIR$/Test_And_Tools/wechat/wechat/apps.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/wechat/wechat/migrations/__init__.py" afterPath="$PROJECT_DIR$/Test_And_Tools/wechat/wechat/migrations/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/wechat/wechat/models.py" afterPath="$PROJECT_DIR$/Test_And_Tools/wechat/wechat/models.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/wechat/wechat/receive.py" afterPath="$PROJECT_DIR$/Test_And_Tools/wechat/wechat/receive.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/wechat/wechat/reply.py" afterPath="$PROJECT_DIR$/Test_And_Tools/wechat/wechat/reply.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/wechat/wechat/tests.py" afterPath="$PROJECT_DIR$/Test_And_Tools/wechat/wechat/tests.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/wechat/wechat/views.py" afterPath="$PROJECT_DIR$/Test_And_Tools/wechat/wechat/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -82,6 +27,7 @@
     <SUITE FILE_PATH="coverage/pylina$wx_python.coverage" NAME="wx_python Coverage Results" MODIFIED="1516254643802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial" />
     <SUITE FILE_PATH="coverage/pylina$test.coverage" NAME="test Coverage Results" MODIFIED="1518027313605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial/kivy" />
     <SUITE FILE_PATH="coverage/pylina$egg_room.coverage" NAME="egg_room Coverage Results" MODIFIED="1525861981768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/opencv" />
+    <SUITE FILE_PATH="coverage/pylina$testPptx.coverage" NAME="testPptx Coverage Results" MODIFIED="1531576689560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_And_Tools/data/office/ppt" />
     <SUITE FILE_PATH="coverage/pylina$udpServer.coverage" NAME="udpServer Coverage Results" MODIFIED="1525096042645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pylina" />
     <SUITE FILE_PATH="coverage/pylina$pylina.coverage" NAME="pylina Coverage Results" MODIFIED="1519824089259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pylina" />
     <SUITE FILE_PATH="coverage/pylina$testRotation.coverage" NAME="testRotation Coverage Results" MODIFIED="1525261513237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/opencv" />
@@ -142,11 +88,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="egg_room.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/egg_room.py">
+      <file leaf-file-name="testPptx.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test_And_Tools/data/office/ppt/testPptx.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="44" column="39" lean-forward="true" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
+            <state relative-caret-position="198">
+              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test_And_Tools/web/wechat/wechat/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -199,7 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Toolkit/DPL/layers.py" />
         <option value="$PROJECT_DIR$/Toolkit/video/test.py" />
         <option value="$PROJECT_DIR$/Toolkit/audio/spectrology.py" />
         <option value="$PROJECT_DIR$/Toolkit/audio/testPlotSpectrogram.py" />
@@ -250,6 +205,7 @@
         <option value="$PROJECT_DIR$/Toolkit/web/WebSocketClient.py" />
         <option value="$PROJECT_DIR$/Toolkit/opencv/panorama.py" />
         <option value="$PROJECT_DIR$/Toolkit/opencv/egg_room.py" />
+        <option value="$PROJECT_DIR$/Test_And_Tools/data/office/ppt/testPptx.py" />
       </list>
     </option>
   </component>
@@ -280,7 +236,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -324,17 +279,144 @@
               <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wechat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wechat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pylina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pylina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test_And_Tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wechat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wechat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pylina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pylina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test_And_Tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pylina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pylina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test_And_Tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="baidu_translate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pylina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pylina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test_And_Tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pylina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pylina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test_And_Tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="office" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ppt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Anaconda3/pythonw.exe" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -355,7 +437,7 @@
       <recent name="D:\github\pylina\Toolkit\web\tornado" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.egg_room">
+  <component name="RunManager" selected="Python.testPptx">
     <configuration default="false" name="pano (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -392,24 +474,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="imgstitch" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Toolkit/opencv/tmp" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pylina" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Toolkit/opencv/tmp/imgstitch.py" />
-      <option name="PARAMETERS" value="-D room_2_45 1.jpg 2.jpg 3.jpg 4.jpg 5.jpg 6.jpg 7.jpg 8.jpg" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="mv_test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -442,6 +506,24 @@
       <module name="pylina" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Toolkit/opencv/egg_room.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="testPptx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_And_Tools/data/office/ppt" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pylina" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test_And_Tools/data/office/ppt/testPptx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -663,17 +745,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.pano (1)" />
       <item index="1" class="java.lang.String" itemvalue="Python.egg_room (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.imgstitch" />
-      <item index="3" class="java.lang.String" itemvalue="Python.mv_test3" />
-      <item index="4" class="java.lang.String" itemvalue="Python.egg_room" />
+      <item index="2" class="java.lang.String" itemvalue="Python.mv_test3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.egg_room" />
+      <item index="4" class="java.lang.String" itemvalue="Python.testPptx" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.egg_room" />
-        <item index="1" class="java.lang.String" itemvalue="Python.pano (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.mv_test3" />
-        <item index="3" class="java.lang.String" itemvalue="Python.egg_room (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.imgstitch" />
+        <item index="0" class="java.lang.String" itemvalue="Python.testPptx" />
+        <item index="1" class="java.lang.String" itemvalue="Python.egg_room" />
+        <item index="2" class="java.lang.String" itemvalue="Python.pano (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.mv_test3" />
+        <item index="4" class="java.lang.String" itemvalue="Python.egg_room (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -717,24 +799,24 @@
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2859375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2859375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.49669498" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19538969" sideWeight="0.17604166" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24368826" sideWeight="0.17916666" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24368826" sideWeight="0.8208333" order="2" side_tool="false" content_ui="tabs" x="3" y="3" width="1914" height="1024" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3975085" sideWeight="0.55472106" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24368826" sideWeight="0.82395834" order="2" side_tool="false" content_ui="tabs" x="3" y="3" width="1914" height="1024" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3975085" sideWeight="0.55472106" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -753,26 +835,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/room_1_45/2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/room_1_45/4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/room_1_45/3.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -913,72 +975,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pylina/sr/tornadoSRServer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="62" column="28" lean-forward="false" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_And_Tools/wechat/wechat/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_And_Tools/wechat/wechat/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_And_Tools/wechat/wechat/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_And_Tools/wechat/wechat/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_And_Tools/wechat/wechat/reply.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1279">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_And_Tools/wechat/wechat/receive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pylina/serialAudio.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pylina/sr/tornadoSRServer.py" />
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/wechat/wechat/tests.py" />
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/wechat/wechat/apps.py" />
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/wechat/wechat/admin.py" />
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/wechat/wechat/models.py" />
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/wechat/wechat/reply.py" />
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/wechat/wechat/receive.py" />
+    <entry file="file://$PROJECT_DIR$/pylina/serialAudio.py" />
     <entry file="file://$PROJECT_DIR$/Test_And_Tools/algorithm/testSklearn.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-          <folding>
-            <element signature="e#119#147#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -986,53 +994,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2300">
           <caret line="317" column="40" lean-forward="false" selection-start-line="317" selection-start-column="40" selection-end-line="317" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/audio/libs/garden/garden.graph/screenshot.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Toolkit/audio/libs/garden/garden.graph/screenshot.png" />
     <entry file="file://$PROJECT_DIR$/Test_And_Tools/algorithm/testNet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-850">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/audio/images/nihao.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_And_Tools/audio/audio.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-594">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/audio/nihao.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Toolkit/audio/images/nihao.png" />
+    <entry file="file://$PROJECT_DIR$/Toolkit/audio/nihao.txt" />
     <entry file="file://$PROJECT_DIR$/Test_And_Tools/audio/look.kv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1040,24 +1018,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/translate/baidu_translate_html_text_test.py" />
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/egg_room.py" />
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/web/api/baidu_translate/baidu_translate_html_text_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test_And_Tools/translate/baidu_translate_html_text_test.py">
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/audio/audio.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="80" column="35" lean-forward="true" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#32#41#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/egg_room.py">
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/data/finance/tushare/tushare_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="44" column="39" lean-forward="true" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/web/wechat/wechat/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/data/office/ppt/testPptx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
           <folding />
         </state>
       </provider>
