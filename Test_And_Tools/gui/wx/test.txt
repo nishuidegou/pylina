@@ -1,0 +1,7 @@
+# serial port config
+com9 9600
+# command send test1
+aa aa aa aa
+# command send test2
+
+# standard

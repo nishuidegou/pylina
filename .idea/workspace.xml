@@ -1,7 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fdfdea4-49f0-4808-874f-6f38599e832e" name="Default" comment="" />
+    <list default="true" id="2fdfdea4-49f0-4808-874f-6f38599e832e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test_And_Tools/video/test.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/gui/1452.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/gui/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/gui/pyqt_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/gui/serial_wx.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/gui/wxSerialConfigDialog.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/gui/wx_python.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/video/test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/.idea/lina.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/.idea/markdown-navigator/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/db.sqlite3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/insurance/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/insurance/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/insurance/apps.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/insurance/migrations/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/insurance/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/insurance/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/insurance/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/lina/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/lina/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/lina/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/lina/wsgi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/manage.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/stock/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/stock/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/stock/apps.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/stock/migrations/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/stock/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/stock/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/stock/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Toolkit/web/django/lina/templates/stock/stock_index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/pylina.iml" afterPath="$PROJECT_DIR$/.idea/pylina.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.txt" afterPath="$PROJECT_DIR$/readme.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/extract data/scrapy/scrapy_test.py" afterPath="$PROJECT_DIR$/Test_And_Tools/data/scrapy/scrapy_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/finance/tushare/tushare_test.py" afterPath="$PROJECT_DIR$/Test_And_Tools/finance/tushare/tushare_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/map/baidu/info_css.html" afterPath="$PROJECT_DIR$/Test_And_Tools/geographic/baidu/info_css.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/translate/baidu_translate_html_text_test.py" afterPath="$PROJECT_DIR$/Test_And_Tools/translate/baidu_translate_html_text_test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/video/MobileNetSSD_deploy.caffemodel" afterPath="$PROJECT_DIR$/Test_And_Tools/video/MobileNetSSD_deploy.caffemodel" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/video/MobileNetSSD_deploy.prototxt.txt" afterPath="$PROJECT_DIR$/Test_And_Tools/video/MobileNetSSD_deploy.prototxt.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/video/object_detect.py" afterPath="$PROJECT_DIR$/Test_And_Tools/video/object_detect.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/video/opencv_test01.py" afterPath="$PROJECT_DIR$/Test_And_Tools/video/opencv_test01.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/video/temp/MobileNetSSD_deploy.caffemodel" afterPath="$PROJECT_DIR$/Test_And_Tools/video/temp/MobileNetSSD_deploy.caffemodel" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/video/temp/MobileNetSSD_deploy.prototxt.txt" afterPath="$PROJECT_DIR$/Test_And_Tools/video/temp/MobileNetSSD_deploy.prototxt.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/wechat/wechat/__init__.py" afterPath="$PROJECT_DIR$/Test_And_Tools/wechat/wechat/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/wechat/wechat/admin.py" afterPath="$PROJECT_DIR$/Test_And_Tools/wechat/wechat/admin.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/wechat/wechat/apps.py" afterPath="$PROJECT_DIR$/Test_And_Tools/wechat/wechat/apps.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/wechat/wechat/migrations/__init__.py" afterPath="$PROJECT_DIR$/Test_And_Tools/wechat/wechat/migrations/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/wechat/wechat/models.py" afterPath="$PROJECT_DIR$/Test_And_Tools/wechat/wechat/models.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/wechat/wechat/receive.py" afterPath="$PROJECT_DIR$/Test_And_Tools/wechat/wechat/receive.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/wechat/wechat/reply.py" afterPath="$PROJECT_DIR$/Test_And_Tools/wechat/wechat/reply.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/wechat/wechat/tests.py" afterPath="$PROJECT_DIR$/Test_And_Tools/wechat/wechat/tests.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Toolkit/wechat/wechat/views.py" afterPath="$PROJECT_DIR$/Test_And_Tools/wechat/wechat/views.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,26 +69,95 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/pylina$object_detect.coverage" NAME="object_detect Coverage Results" MODIFIED="1513667626251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/video" />
-    <SUITE FILE_PATH="coverage/pylina$test.coverage" NAME="test Coverage Results" MODIFIED="1513515852249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/video" />
-    <SUITE FILE_PATH="coverage/pylina$tushare_test.coverage" NAME="tushare_test Coverage Results" MODIFIED="1502564518022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/finance/tushare" />
-    <SUITE FILE_PATH="coverage/pylina$1452.coverage" NAME="1452 Coverage Results" MODIFIED="1511840259914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui" />
-    <SUITE FILE_PATH="coverage/pylina$pyqt_test.coverage" NAME="pyqt_test Coverage Results" MODIFIED="1511772960390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui" />
+    <SUITE FILE_PATH="coverage/pylina$audioPloTest__1_.coverage" NAME="audioPloTest (1) Coverage Results" MODIFIED="1518027584443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial/kivy" />
+    <SUITE FILE_PATH="coverage/pylina$testOpencv.coverage" NAME="testOpencv Coverage Results" MODIFIED="1525264069156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/opencv" />
+    <SUITE FILE_PATH="coverage/pylina$Unittests_in_TestApp__1_.coverage" NAME="Unittests in TestApp (1) Coverage Results" MODIFIED="1518027304032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial/kivy" />
+    <SUITE FILE_PATH="coverage/pylina$serial_test.coverage" NAME="serial_test Coverage Results" MODIFIED="1516338525527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial" />
+    <SUITE FILE_PATH="coverage/pylina$spectrology.coverage" NAME="spectrology Coverage Results" MODIFIED="1517027320807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/audio" />
+    <SUITE FILE_PATH="coverage/pylina$testRequests.coverage" NAME="testRequests Coverage Results" MODIFIED="1525076884694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/web/tornado" />
+    <SUITE FILE_PATH="coverage/pylina$egg_room__1_.coverage" NAME="egg_room (1) Coverage Results" MODIFIED="1525363091930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/opencv/tmp" />
+    <SUITE FILE_PATH="coverage/pylina$testPlotSpectrogram.coverage" NAME="testPlotSpectrogram Coverage Results" MODIFIED="1517027512040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/audio" />
     <SUITE FILE_PATH="coverage/pylina$pygame_test.coverage" NAME="pygame_test Coverage Results" MODIFIED="1513338612035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/video" />
-    <SUITE FILE_PATH="coverage/pylina$opencv_test01.coverage" NAME="opencv_test01 Coverage Results" MODIFIED="1513491551684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/video" />
-    <SUITE FILE_PATH="coverage/pylina$serial_wx.coverage" NAME="serial_wx Coverage Results" MODIFIED="1511841427968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui" />
-    <SUITE FILE_PATH="coverage/pylina$wx_python.coverage" NAME="wx_python Coverage Results" MODIFIED="1511840085849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui" />
+    <SUITE FILE_PATH="coverage/pylina$1452__1_.coverage" NAME="setup Coverage Results" MODIFIED="1516224863994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial" />
+    <SUITE FILE_PATH="coverage/pylina$wx_python.coverage" NAME="wx_python Coverage Results" MODIFIED="1516254643802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial" />
+    <SUITE FILE_PATH="coverage/pylina$test.coverage" NAME="test Coverage Results" MODIFIED="1518027313605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial/kivy" />
+    <SUITE FILE_PATH="coverage/pylina$egg_room.coverage" NAME="egg_room Coverage Results" MODIFIED="1525861981768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/opencv" />
+    <SUITE FILE_PATH="coverage/pylina$udpServer.coverage" NAME="udpServer Coverage Results" MODIFIED="1525096042645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pylina" />
+    <SUITE FILE_PATH="coverage/pylina$pylina.coverage" NAME="pylina Coverage Results" MODIFIED="1519824089259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pylina" />
+    <SUITE FILE_PATH="coverage/pylina$testRotation.coverage" NAME="testRotation Coverage Results" MODIFIED="1525261513237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/opencv" />
+    <SUITE FILE_PATH="coverage/pylina$wxSerialConfigDialog.coverage" NAME="wxSerialConfigDialog Coverage Results" MODIFIED="1516225403023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial" />
+    <SUITE FILE_PATH="coverage/pylina$pyqt_test.coverage" NAME="pyqt_test Coverage Results" MODIFIED="1511772960390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui" />
+    <SUITE FILE_PATH="coverage/pylina$zt1600_test.coverage" NAME="zt1600_test Coverage Results" MODIFIED="1516141273119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial" />
+    <SUITE FILE_PATH="coverage/pylina$setup.coverage" NAME="setup Coverage Results" MODIFIED="1516265031482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial" />
+    <SUITE FILE_PATH="coverage/pylina$gammatone.coverage" NAME="gammatone Coverage Results" MODIFIED="1518188476800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/audio" />
+    <SUITE FILE_PATH="coverage/pylina$myTest.coverage" NAME="myTest Coverage Results" MODIFIED="1518005298189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial/kivy" />
+    <SUITE FILE_PATH="coverage/pylina$tcp_server.coverage" NAME="tcp_server Coverage Results" MODIFIED="1520363444911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/web/TCP_UDP" />
+    <SUITE FILE_PATH="coverage/pylina$testMatplot.coverage" NAME="testMatplot Coverage Results" MODIFIED="1517065893323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/audio" />
+    <SUITE FILE_PATH="coverage/pylina$imgstitch.coverage" NAME="imgstitch Coverage Results" MODIFIED="1525360680995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/opencv/tmp" />
+    <SUITE FILE_PATH="coverage/pylina$Unittests_in_TestApp.coverage" NAME="Unittests in TestApp Coverage Results" MODIFIED="1518027267790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial/kivy" />
+    <SUITE FILE_PATH="coverage/pylina$tesTornado.coverage" NAME="tesTornado Coverage Results" MODIFIED="1525076644904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/web/tornado" />
+    <SUITE FILE_PATH="coverage/pylina$mv_test3.coverage" NAME="mv_test3 Coverage Results" MODIFIED="1525608272889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/BEAN/egg/doc" />
+    <SUITE FILE_PATH="coverage/pylina$tornadoSRServer.coverage" NAME="tornadoSRServer Coverage Results" MODIFIED="1525096113797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pylina/sr" />
+    <SUITE FILE_PATH="coverage/pylina$wxtest.coverage" NAME="wxtest Coverage Results" MODIFIED="1516338898849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial" />
+    <SUITE FILE_PATH="coverage/pylina$testMatplot3.coverage" NAME="testMatplot3 Coverage Results" MODIFIED="1518035545990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial/kivy" />
+    <SUITE FILE_PATH="coverage/pylina$pano.coverage" NAME="pano Coverage Results" MODIFIED="1525261287862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/opencv" />
+    <SUITE FILE_PATH="coverage/pylina$audio__1_.coverage" NAME="audio (1) Coverage Results" MODIFIED="1518108698176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial/kivy" />
+    <SUITE FILE_PATH="coverage/pylina$pano__1_.coverage" NAME="pano (1) Coverage Results" MODIFIED="1525838188261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/opencv/tmp" />
+    <SUITE FILE_PATH="coverage/pylina$Unittests_in_setup.coverage" NAME="Unittests in setup Coverage Results" MODIFIED="1516184614286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial" />
+    <SUITE FILE_PATH="coverage/pylina$object_detect.coverage" NAME="object_detect Coverage Results" MODIFIED="1517142293996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/video" />
+    <SUITE FILE_PATH="coverage/pylina$Unittests_in_testCamera.coverage" NAME="Unittests in testCamera Coverage Results" MODIFIED="1517995345883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial/kivy" />
+    <SUITE FILE_PATH="coverage/pylina$testSpeechRecognition.coverage" NAME="testSpeechRecognition Coverage Results" MODIFIED="1524994124755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pylina" />
+    <SUITE FILE_PATH="coverage/pylina$pyaudioPlayWav.coverage" NAME="pyaudioPlayWav Coverage Results" MODIFIED="1517117136341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/audio" />
+    <SUITE FILE_PATH="coverage/pylina$audioPloTest.coverage" NAME="audioPloTest Coverage Results" MODIFIED="1518022623836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/audio" />
+    <SUITE FILE_PATH="coverage/pylina$testPlotSpectrogram2.coverage" NAME="testPlotSpectrogram2 Coverage Results" MODIFIED="1519832038196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/audio" />
+    <SUITE FILE_PATH="coverage/pylina$testSklearn.coverage" NAME="testSklearn Coverage Results" MODIFIED="1517718537531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/DPL" />
+    <SUITE FILE_PATH="coverage/pylina$wxserial.coverage" NAME="wxserial Coverage Results" MODIFIED="1516244703727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial" />
+    <SUITE FILE_PATH="coverage/pylina$serial_wx.coverage" NAME="serial_wx Coverage Results" MODIFIED="1516225486608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial" />
+    <SUITE FILE_PATH="coverage/pylina$pyaudioCallback.coverage" NAME="pyaudioCallback Coverage Results" MODIFIED="1516451326819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/audio" />
+    <SUITE FILE_PATH="coverage/pylina$pyaudioWriteWav.coverage" NAME="pyaudioWriteWav Coverage Results" MODIFIED="1517332355509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/audio" />
+    <SUITE FILE_PATH="coverage/pylina$tcp_client.coverage" NAME="tcp_client Coverage Results" MODIFIED="1520363448377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/web/TCP_UDP" />
+    <SUITE FILE_PATH="coverage/pylina$tushare_test.coverage" NAME="tushare_test Coverage Results" MODIFIED="1502564518022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/finance/tushare" />
+    <SUITE FILE_PATH="coverage/pylina$1452.coverage" NAME="1452 Coverage Results" MODIFIED="1515965312769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui" />
+    <SUITE FILE_PATH="coverage/pylina$testMatplotlib.coverage" NAME="testMatplotlib Coverage Results" MODIFIED="1518030496931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial/kivy" />
+    <SUITE FILE_PATH="coverage/pylina$serial.coverage" NAME="serial Coverage Results" MODIFIED="1520961350880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/gui_serial/zw" />
+    <SUITE FILE_PATH="coverage/pylina$mp3Towav.coverage" NAME="mp3Towav Coverage Results" MODIFIED="1517046854701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/audio" />
+    <SUITE FILE_PATH="coverage/pylina$opencv_test01.coverage" NAME="opencv_test01 Coverage Results" MODIFIED="1517136272627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/video" />
+    <SUITE FILE_PATH="coverage/pylina$audio.coverage" NAME="audio Coverage Results" MODIFIED="1520961418469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/audio" />
+    <SUITE FILE_PATH="coverage/pylina$mlp.coverage" NAME="mlp Coverage Results" MODIFIED="1522446468902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/DPL" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="pylina" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="egg_room.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/egg_room.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="44" column="39" lean-forward="true" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -37,27 +165,91 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>min_</find>
+      <find>Publisher</find>
+      <find>SetSizeHintsSz</find>
+      <find>gizmos</find>
+      <find>app</find>
+      <find>activation_dfunc</find>
+      <find>output_layer</find>
+      <find>MeshLinePlot</find>
+      <find>BoxLayout</find>
+      <find>softmax</find>
+      <find>activation</find>
+      <find>audio</find>
+      <find>Microphone</find>
+      <find>listen</find>
+      <find>AudioData</find>
+      <find>size</find>
+      <find>frame</find>
+      <find>frame_data</find>
+      <find>room_1_45</find>
+      <find>matchers</find>
+      <find>matcher_obj</find>
+      <find>getSURFFeatures</find>
     </findStrings>
+    <replaceStrings>
+      <replace>room_1_60</replace>
+      <replace>room_2_45</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Toolkit/extract data/scrapy/scrapy_test.py" />
-        <option value="$PROJECT_DIR$/Toolkit/finance/tushare/tushare_test.py" />
-        <option value="$PROJECT_DIR$/Toolkit/gui/pyqt_test.py" />
-        <option value="$PROJECT_DIR$/Toolkit/gui/serial_wx.py" />
-        <option value="$PROJECT_DIR$/Toolkit/gui/wxSerialConfigDialog.py" />
-        <option value="$PROJECT_DIR$/Toolkit/gui/__init__.py" />
-        <option value="$PROJECT_DIR$/Toolkit/gui/wx_python.py" />
-        <option value="$PROJECT_DIR$/Toolkit/gui/1452.py" />
-        <option value="$PROJECT_DIR$/Toolkit/video/pygame_test.py" />
+        <option value="$PROJECT_DIR$/Toolkit/DPL/layers.py" />
         <option value="$PROJECT_DIR$/Toolkit/video/test.py" />
-        <option value="$PROJECT_DIR$/Toolkit/video/opencv_test01.py" />
-        <option value="$PROJECT_DIR$/Toolkit/video/conv.py" />
-        <option value="$PROJECT_DIR$/Toolkit/video/object_detect.py" />
+        <option value="$PROJECT_DIR$/Toolkit/audio/spectrology.py" />
+        <option value="$PROJECT_DIR$/Toolkit/audio/testPlotSpectrogram.py" />
+        <option value="$PROJECT_DIR$/Toolkit/audio/mp3Towav.py" />
+        <option value="$PROJECT_DIR$/Toolkit/audio/testMatplot.py" />
+        <option value="$PROJECT_DIR$/Toolkit/audio/pyaudioPlayWav.py" />
+        <option value="$PROJECT_DIR$/Toolkit/audio/pyaudioWriteWav.py" />
+        <option value="$PROJECT_DIR$/Toolkit/DPL/testNet.py" />
+        <option value="$PROJECT_DIR$/Toolkit/DPL/class2_mlp.py" />
+        <option value="$PROJECT_DIR$/Toolkit/DPL/mlp.py" />
+        <option value="$PROJECT_DIR$/Toolkit/DPL/testSklearn.py" />
+        <option value="$PROJECT_DIR$/Toolkit/gui_serial/kivy/testCamera.py" />
+        <option value="$PROJECT_DIR$/Toolkit/gui_serial/kivy/pong.kv" />
+        <option value="$PROJECT_DIR$/Toolkit/gui_serial/kivy/myTest.py" />
+        <option value="$PROJECT_DIR$/Toolkit/gui_serial/kivy/my.kv" />
+        <option value="$PROJECT_DIR$/Toolkit/audio/audioPloTest.py" />
+        <option value="$PROJECT_DIR$/Toolkit/gui_serial/kivy/look.kv" />
+        <option value="$PROJECT_DIR$/Toolkit/gui_serial/kivy/test.py" />
+        <option value="$PROJECT_DIR$/Toolkit/gui_serial/kivy/audioPloTest.py" />
+        <option value="$PROJECT_DIR$/Toolkit/gui_serial/kivy/testMatplotlib.py" />
+        <option value="$PROJECT_DIR$/Toolkit/gui_serial/kivy/testMatplot3.py" />
+        <option value="$PROJECT_DIR$/Toolkit/gui_serial/kivy/audio.py" />
+        <option value="$PROJECT_DIR$/Toolkit/web/h5/testCamera.html" />
+        <option value="$PROJECT_DIR$/pylina/pylina.py" />
+        <option value="$PROJECT_DIR$/Toolkit/audio/testPlotSpectrogram2.py" />
+        <option value="$PROJECT_DIR$/Toolkit/web/TCP_UDP/tcp_server.py" />
+        <option value="$PROJECT_DIR$/Toolkit/web/TCP_UDP/tcp_client.py" />
+        <option value="$PROJECT_DIR$/Toolkit/web/TCP_UDP/udpServer.py" />
+        <option value="$PROJECT_DIR$/Toolkit/audio/audio.py" />
+        <option value="$PROJECT_DIR$/pylina/testSpeechRecognition.py" />
+        <option value="$PROJECT_DIR$/Toolkit/web/tornado/index.html" />
+        <option value="$PROJECT_DIR$/pylina/tornadoSRServer.py" />
+        <option value="$PROJECT_DIR$/Toolkit/web/tornado/tesTornado.py" />
+        <option value="$PROJECT_DIR$/Toolkit/web/tornado/testRequests.py" />
+        <option value="$PROJECT_DIR$/pylina/udpServer.py" />
+        <option value="$PROJECT_DIR$/pylina/sr/tornadoSRServer.py" />
+        <option value="$PROJECT_DIR$/pylina/sr/index.html" />
+        <option value="$PROJECT_DIR$/Toolkit/opencv/files1.txt" />
+        <option value="$PROJECT_DIR$/Toolkit/opencv/pano.py" />
+        <option value="$PROJECT_DIR$/Toolkit/opencv/matchers.py" />
+        <option value="$PROJECT_DIR$/Toolkit/opencv/testRotation.py" />
+        <option value="$PROJECT_DIR$/Toolkit/opencv/testOpencv.py" />
+        <option value="$PROJECT_DIR$/Toolkit/opencv/tmp/imgstitch.py" />
+        <option value="$PROJECT_DIR$/Toolkit/opencv/tmp/pano.py" />
+        <option value="$PROJECT_DIR$/Toolkit/opencv/tmp/files1.txt" />
+        <option value="$PROJECT_DIR$/Toolkit/opencv/tmp/egg_room.py" />
+        <option value="D:/BEAN/egg/doc/mv_test3.py" />
+        <option value="$PROJECT_DIR$/Toolkit/web/WebSocketClient.py" />
+        <option value="$PROJECT_DIR$/Toolkit/opencv/panorama.py" />
+        <option value="$PROJECT_DIR$/Toolkit/opencv/egg_room.py" />
       </list>
     </option>
   </component>
@@ -88,7 +280,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -112,119 +303,146 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Toolkit" />
+              <option name="myItemId" value="Test_And_Tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pylina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pylina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test_And_Tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/BEAN/projectidea/zw/1452/pyserial-master/pyserial-master" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github\pylina\Toolkit\opencv\tmp" />
+      <recent name="D:\github\pylina\pylina\sr" />
+      <recent name="D:\github\pylina\Toolkit" />
+      <recent name="D:\github\pylina\Toolkit\audio\images" />
       <recent name="D:\github\pylina\Toolkit\video" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\github\pylina\Toolkit\video\temp" />
-      <recent name="D:\github\pylina\Toolkit\video" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\pylina\Toolkit\opencv" />
+      <recent name="D:\github\pylina\Toolkit\opencv\tmp" />
+      <recent name="D:\github\pylina\pylina\sr" />
+      <recent name="D:\github\pylina\pylina" />
+      <recent name="D:\github\pylina\Toolkit\web\tornado" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.object_detect">
-    <configuration default="false" name="serial_wx" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Toolkit/gui" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pylina" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Toolkit/gui/serial_wx.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="pygame_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.egg_room">
+    <configuration default="false" name="pano (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\beananil\Anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Toolkit/video" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Toolkit/opencv/tmp" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pylina" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Toolkit/video/pygame_test.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Toolkit/opencv/tmp/pano.py" />
+      <option name="PARAMETERS" value="files1.txt" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="egg_room (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Toolkit/video" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Toolkit/opencv/tmp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pylina" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Toolkit/video/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Toolkit/opencv/tmp/egg_room.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="opencv_test01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="imgstitch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Toolkit/video" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Toolkit/opencv/tmp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pylina" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Toolkit/video/opencv_test01.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Toolkit/opencv/tmp/imgstitch.py" />
+      <option name="PARAMETERS" value="-D room_2_45 1.jpg 2.jpg 3.jpg 4.jpg 5.jpg 6.jpg 7.jpg 8.jpg" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="object_detect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="mv_test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\beananil\Anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Toolkit/video" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/BEAN/egg/doc" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pylina" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Toolkit/video/object_detect.py" />
-      <option name="PARAMETERS" value="--prototxt MobileNetSSD_deploy.prototxt.txt   --model MobileNetSSD_deploy.caffemodel" />
+      <option name="SCRIPT_NAME" value="D:/BEAN/egg/doc/mv_test3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="egg_room" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Toolkit/opencv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pylina" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Toolkit/opencv/egg_room.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
@@ -443,19 +661,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.serial_wx" />
-      <item index="1" class="java.lang.String" itemvalue="Python.pygame_test" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test" />
-      <item index="3" class="java.lang.String" itemvalue="Python.opencv_test01" />
-      <item index="4" class="java.lang.String" itemvalue="Python.object_detect" />
+      <item index="0" class="java.lang.String" itemvalue="Python.pano (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.egg_room (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.imgstitch" />
+      <item index="3" class="java.lang.String" itemvalue="Python.mv_test3" />
+      <item index="4" class="java.lang.String" itemvalue="Python.egg_room" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.object_detect" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test" />
-        <item index="2" class="java.lang.String" itemvalue="Python.opencv_test01" />
-        <item index="3" class="java.lang.String" itemvalue="Python.pygame_test" />
-        <item index="4" class="java.lang.String" itemvalue="Python.serial_wx" />
+        <item index="0" class="java.lang.String" itemvalue="Python.egg_room" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pano (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.mv_test3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.egg_room (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.imgstitch" />
       </list>
     </recent_temporary>
   </component>
@@ -472,6 +690,20 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_TestApp - 2018.02.08 at 02h 14m 29s.xml">
+      <configuration name="Unittests in TestApp" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestApp_(1) - 2018.02.08 at 02h 15m 06s.xml">
+      <configuration name="Unittests in TestApp (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_setup - 2018.01.17 at 18h 23m 35s.xml">
+      <configuration name="Unittests in setup" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testCamera - 2018.01.20 at 10h 58m 01s.xml">
+      <configuration name="Unittests in testCamera" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -482,27 +714,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18830472" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.50362694" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2859375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.49669498" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19538969" sideWeight="0.17604166" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22423556" sideWeight="0.49637306" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39977092" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24368826" sideWeight="0.82395834" order="2" side_tool="false" content_ui="tabs" x="3" y="3" width="1914" height="1024" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3975085" sideWeight="0.55472106" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,346 +748,317 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="2" />
+      <option name="time" value="16" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Toolkit/finance/tushare/tushare_test.py">
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/room_1_45/2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/room_1_45/4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/room_1_45/3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/room_1_45/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Toolkit/opencv/tmp/imgstitch.py" />
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/room_2_45/34.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/files1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="108">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/pyqt_test.py">
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/room_2_45/234.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Toolkit/opencv/tmp/room_2_45/23455.jpg" />
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/room_2_45/2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/room_2_45/3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/room_2_45/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/room_2_45/6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/room_2_45/5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/room_2_45/8.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/room_2_45/7.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/egg_room.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        <state relative-caret-position="1836">
+          <caret line="72" column="7" lean-forward="false" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/wx_python.py">
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/room_2_45/2345.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/room_2_45/23.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/room_2_45/12.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://D:/BEAN/egg/doc/mv_test3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1782">
-          <caret line="66" column="41" lean-forward="false" selection-start-line="65" selection-start-column="26" selection-end-line="66" selection-end-column="41" />
+        <state relative-caret-position="27">
+          <caret line="30" column="23" lean-forward="false" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/serial_wx.py">
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/pano.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2619">
-          <caret line="101" column="45" lean-forward="false" selection-start-line="101" selection-start-column="45" selection-end-line="101" selection-end-column="45" />
+        <state relative-caret-position="432">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/video/test.py">
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/testOpencv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="16" column="49" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/tmp/matchers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/web/WebSocketClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/fast_true.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/panorama.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-362779017/cv2/cv2/__init__.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/speech_recognition/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/fast_false.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pylina/sr/tornadoSRServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="62" column="28" lean-forward="false" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/wechat/wechat/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/wechat/wechat/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/wechat/wechat/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/wechat/wechat/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/wechat/wechat/reply.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1279">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/wechat/wechat/receive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pylina/serialAudio.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#18#0" expanded="false" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/1452.py">
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/algorithm/testSklearn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2484">
-          <caret line="93" column="18" lean-forward="false" selection-start-line="93" selection-start-column="18" selection-end-line="93" selection-end-column="18" />
+        <state relative-caret-position="99">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <element signature="e#119#147#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/wxSerialConfigDialog.py">
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/algorithm/testMlp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="2300">
+          <caret line="317" column="40" lean-forward="false" selection-start-line="317" selection-start-column="40" selection-end-line="317" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/finance/tushare/tushare_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/pyqt_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/wx_python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1755">
-          <caret line="66" column="41" lean-forward="false" selection-start-line="65" selection-start-column="26" selection-end-line="66" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/serial_wx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/1452.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2484">
-          <caret line="93" column="18" lean-forward="false" selection-start-line="93" selection-start-column="18" selection-end-line="93" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/wxSerialConfigDialog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/finance/tushare/tushare_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/pyqt_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/wx_python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1782">
-          <caret line="66" column="41" lean-forward="false" selection-start-line="65" selection-start-column="26" selection-end-line="66" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/serial_wx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/1452.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2484">
-          <caret line="93" column="18" lean-forward="true" selection-start-line="93" selection-start-column="18" selection-end-line="93" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/wxSerialConfigDialog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/finance/tushare/tushare_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/pyqt_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/wx_python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/serial_wx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/wxSerialConfigDialog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/finance/tushare/tushare_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/pyqt_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/finance/tushare/tushare_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/finance/tushare/tushare_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/finance/tushare/tushare_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/finance/tushare/tushare_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/finance/tushare/tushare_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/extract data/scrapy/scrapy_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/translate/baidu_translate_html_text_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-972">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/wxSerialConfigDialog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/video/pygame_test.py" />
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/1452.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="93" column="18" lean-forward="false" selection-start-line="93" selection-start-column="18" selection-end-line="93" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/video/每.jpg" />
-    <entry file="file://$PROJECT_DIR$/Toolkit/video/opencv_test01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/serial_wx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="96" column="37" lean-forward="true" selection-start-line="96" selection-start-column="37" selection-end-line="96" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/wx_python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2025">
-          <caret line="75" column="30" lean-forward="true" selection-start-line="75" selection-start-column="30" selection-end-line="75" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/gui/pyqt_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/finance/tushare/tushare_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/video/conv.py" />
-    <entry file="file://$PROJECT_DIR$/Toolkit/video/MobileNet-SSD-master/gen.py" />
-    <entry file="file://$PROJECT_DIR$/Toolkit/video/temp/MobileNetSSD_deploy.prototxt.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/video/temp/MobileNetSSD_deploy.prototxt.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="33" column="3" lean-forward="false" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/video/temp/MobileNetSSD_deploy.caffemodel">
-      <provider selected="true" editor-type-id="LargeFileEditor">
+    <entry file="file://$PROJECT_DIR$/Toolkit/audio/libs/garden/garden.graph/screenshot.png">
+      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/video/MobileNetSSD_deploy.prototxt.txt">
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/algorithm/testNet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/video/object_detect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        <state relative-caret-position="-850">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Toolkit/video/test.py">
+    <entry file="file://$PROJECT_DIR$/Toolkit/audio/images/nihao.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/audio/audio.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        <state relative-caret-position="-594">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#18#0" expanded="false" />
+            <element signature="e#0#14#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Toolkit/audio/nihao.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/audio/look.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/audio/mp3Towav.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/translate/baidu_translate_html_text_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="80" column="35" lean-forward="true" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+          <folding>
+            <element signature="e#32#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_And_Tools/opencv/egg_room.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="44" column="39" lean-forward="true" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>

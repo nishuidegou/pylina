@@ -1,0 +1,8 @@
+./room_2_45/1.jpg
+./room_2_45/2.jpg
+./room_2_45/3.jpg
+./room_2_45/4.jpg
+./room_2_45/5.jpg
+./room_2_45/6.jpg
+./room_2_45/7.jpg
+./room_2_45/8.jpg
